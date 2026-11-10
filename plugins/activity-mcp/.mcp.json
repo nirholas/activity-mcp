@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "activity": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@three-ws/activity-mcp"
+      ]
+    }
+  }
+}
